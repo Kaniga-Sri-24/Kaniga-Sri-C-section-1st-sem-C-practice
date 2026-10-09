@@ -1,0 +1,6 @@
+#include<stdio.h>
+int main()
+{
+  printf("%d",55/6);//9
+  printf("%d",55%6);//1
+}
